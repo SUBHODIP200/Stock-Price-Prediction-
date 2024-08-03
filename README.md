@@ -1,7 +1,3 @@
-# Stock-Price-Prediction-
-
-Sure, here's a sample README file for your GitHub repository:
-
 ---
 
 # Stock Price Prediction Using LSTM
