@@ -110,6 +110,7 @@ The model consists of three LSTM layers with dropout regularization to prevent o
     plt.legend(['train'], loc='upper left')
     plt.show()
     ```
+    ![stock2](https://github.com/user-attachments/assets/65d14b21-ee7e-4bc8-b9eb-230ca49b6e32)
 
 ## Testing the Model
 
@@ -144,6 +145,8 @@ The model consists of three LSTM layers with dropout regularization to prevent o
     plt.legend()
     plt.show()
     ```
+    
+    ![stock1](https://github.com/user-attachments/assets/cd8d2aa3-7501-4a12-bb55-acca003e0c56)
 
 3. Calculate the R2 score:
     ```python
